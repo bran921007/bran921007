@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there, I'm Fran Perez 👋
+# I'm Fran Perez 👋
 
 I'm a Full Stack Developer with over 7 years of experience in creating web-based solutions. My expertise lies in developing e-commerce sites using Shopify and Laravel, and I have a strong background in building user-friendly interfaces and scalable back-end systems.
 
