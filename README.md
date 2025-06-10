@@ -17,6 +17,10 @@
   </a>
 </p>
 
+## 📫 How to reach me
+- **Email:** francisco.perez583@gmail.com
+- **LinkedIn:** [Francisco P.](https://www.linkedin.com/in/francisco-p/)
+
 ---
 
 ### 🚀 Featured Projects
