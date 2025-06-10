@@ -1,73 +1,72 @@
-<!--
-**bran921007/bran921007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/francisco-p" target="_blank">
+  <img src="https://media.licdn.com/dms/image/v2/D4E16AQEJXT5GV_GKQA/profile-displaybackgroundimage-shrink_350_1400/B4EZcyMOGwHcAY-/0/1748893754525?e=1755129600&v=beta&t=cnoL9-aTyOMExLfpYLlBIxrsp0k5rSvzoMPcNesj34A" />
+</a>
 
-Here are some ideas to get you started:
+<p align="center">Hey, I'm Fran — a Full-Stack Engineer with 10+ years of experience across e-commerce, logistics, pet tech, and SaaS. I help companies build reliable, performant, and user-friendly platforms.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🛍️ **Shopify Expert** – From custom themes to headless builds with Hydrogen & Next.js  
+- 🧩 **Full-Stack Developer** – Node.js, TypeScript, Laravel, React, Vue  
+- ☁️ **Cloud & DevOps** – AWS, Docker, GitLab CI/CD, Serverless workflows  
+- 💼 Currently working remotely with Square1 (Ireland) on high-profile ecommerce solutions  
+- 📈 Featured in the [Cree Banreservas Pre-Acceleration Program](https://www.banreservas.com/articulos/Pages/Diez-emprendimientos-optar%C3%A1n-por-potencial-inversi%C3%B3n--de-RD$4.3mm-en-Programa-de-Cree-Banreservas.aspx)  
+- 🧠 Founder of [Cognitio](https://www.linkedin.com/company/cognitiohub-mental), the first virtual mental health care center in the DR  
 
-# I'm Fran Perez 👋
+<p align="center"> 
+  <a href="https://www.linkedin.com/in/francisco-p">
+    <img src="https://img.shields.io/badge/connect-LinkedIn-blue?logo=linkedin&style=for-the-badge" alt="Fran's LinkedIn"/>
+  </a>
+</p>
 
-I'm a Full Stack Developer with over 7 years of experience in creating web-based solutions. My expertise lies in developing e-commerce sites using Shopify and Laravel, and I have a strong background in building user-friendly interfaces and scalable back-end systems.
+---
 
-## 🔭 I’m currently working on
-- Developing robust e-commerce websites using Shopify and Laravel
-- Integrating third-party apps and services to enhance e-commerce functionalities
-- Creating custom plugins and features for WordPress applications
-- Building scalable web applications with Node.js and TypeScript
+### 🚀 Featured Projects
 
-## 🌱 I’m currently learning
-- Shopify Headless in Hydrogen framework
-- Improving my skills in Typescript and Node.js
-- Exploring new features and capabilities in Laravel and Vue.js
+| Project | Description | Tech |
+|--------|-------------|------|
+| [Manitobah.com](https://manitobah.com) | Immersive e-commerce experience for indigenous brand | Shopify, Liquid, Storytelling UX |
+| [NatureWell Beauty](https://naturewellbeauty.com) | Personalized shopping for wellness products | Shopify, Custom UI |
+| [Grande Cosmetics](https://grandecosmetics.com) | High-converting beauty brand storefront | Shopify, Speed Optimized |
+| [Tumble Living](https://www.tumbleliving.com) | Lifestyle store with curated product flows | Shopify, React, Performance |
+| [Valgenee](https://valgenne.com) | Luxury store with interactive product galleries | Shopify 2.0 |
+| [Agent Nateur](https://agentnateur.com) | Clean wellness UI with elegant commerce design | Shopify |
+| [Skaterudeboyz](https://skaterudeboyz.com) | Bold branding for streetwear niche | Shopify, Visual Storytelling |
 
-## 🤔 I’m looking for help with
-- Finding opportunities to contribute to interesting and impactful projects
-- Networking with other developers and professionals in the tech industry
+---
 
-## 🚀 Skills
-- **Programming Languages:** JavaScript, Node.js, PHP, Ruby, Typescript
-- **Frameworks & Libraries:** Vue.js, Pinia, Alpine.js, Laravel, Lumen, Slim Framework, Inertia.js, Livewire, WordPress
-- **E-commerce Platforms:** Shopify (1.0 & 2.0), WooCommerce
-- **Databases:** MySQL, PostgreSQL, SQL Server, MongoDB
-- **CSS Frameworks:** TailwindCSS, Bootstrap
-- **Testing:** Vitest, Cypress, Sinon, Mocha, PHPUnit
-- **DevOps & Tools:** Docker, Vagrant, Homestead, Amazon Web Services, Digital Ocean
-- **Version Control:** Git, GitHub, BitBucket, GitLab, SourceTree
-- **APIs:** RESTful APIs, JSON
-- **Other Technologies:** HTML, CSS, Unix, Bitbucket Pipeline, Openshift
-- **Project Management & Communication:** Jira, Trello, GSuite, Slack
-- **Agile Methodologies:** Scrum, Kanban
+### ✨ Testimonials
 
-## 📄 Portfolio
-Here are some of the websites I have worked on:
-- **[Nature Well Beauty](https://naturewellbeauty.com/)**
-- **[Animark](https://animark.ie/)**
-- **[UX Design Institute](https://www.uxdesigninstitute.com/)**
-- **[Jacob & Co.](https://www.jacobandco.com/)**
+| From | Quote |
+|------|-------|
+| **Leo Garza**, Engineering Manager | *"Fran is a highly skilled and dependable full-stack developer. A true self-starter—he takes initiative on complex tasks, delivers high-quality work across front-end and back-end, and brings calm, focused energy to every team."* |
+| **David Navarro**, CEO @ AGR | *"I've worked with Fran for years—he’s a trusted Shopify SME who brings professionalism, dependability, and resourcefulness. I trust him with high-value client delivery every time."* |
+| **Luis Anibal Martinez**, Software Engineer | *"Fran is an excellent professional with incredible soft skills. Always supportive and committed to optimal solutions."* |
+| **María Isabel Carreres**, Developer @ Square1 | *"Proactive and reliable. Great team player, yet very autonomous."* |
+| **Danny Feliz**, Senior Frontend Dev | *"Always attentive to detail and goes the extra mile."* |
+| **Jhonn Rodriguez**, Senior Developer | *"Responsible, a good leader. I’d love to work with him again."* |
 
-## 💬 Ask me about
-- E-commerce development with Shopify and Woocommerce
-- Full-stack web development (Javascript, Laravel, wordpress)
-- My experience in leading development projects and mentoring new team members
+---
 
-## 📫 How to reach me
-- **Email:** francisco.perez583@gmail.com
-- **LinkedIn:** [Francisco P.](https://www.linkedin.com/in/francisco-p/)
+### 📜 Certifications
 
-## ⚡ Fun fact
-- I owned an e-commerce business back in 2019 and it sparked my passion for developing innovative e-commerce solutions!
+- ✅ Stripe Certified Professional Developer  
+- ✅ Shopify: Liquid Storefronts & Headless Developer Badge
+- ✅ Shopify: Headless at Shopify for Developers: Verified Skill Badge
+- ✅ Triplebyte Certified  
 
-## 🏆 Achievements
-- Successfully developed and maintained multiple e-commerce websites using Shopify and Laravel
-- Built robust and scalable web applications for big brands from Ireland and the UK
-- Led a team of developers and mentored new team members as part of their onboarding process
+---
 
-Thanks for visiting my profile! Feel free to explore my repositories and reach out if you have any questions or opportunities.
+### 🔭 What I’m currently working on
+
+- 🧠 Scaling Cognitio – mental health platform in the cloud  
+- 🛠️ Building advanced e-commerce experiences with Shopify Hydrogen  
+- 🧪 Playing with Stripe Connect + React + AWS Lambdas  
+- 💬 Sharing insights on full-stack workflows and team collaboration
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bran921007&show_icons=true&theme=default&count_private=true" alt="Fran's GitHub stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bran921007&theme=default" alt="GitHub Streak" />
+</p>
